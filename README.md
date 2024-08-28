@@ -1,8 +1,13 @@
-# React + Vite
+# Task Day 2 - React Router
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Tambahkan Link ke masing" halaman dibawah
+2. Buat komponen baru Login.jsx, jika belum login, maka redirect to login page. Jika sudah login, redirect ke homepage
+3. Upload tugas di Github
 
-Currently, two official plugins are available:
+## [https://task-react-router-riyandi.netlify.app/](https://task-react-router-riyandi.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Credential
+
+username: admin
+
+password: admin
