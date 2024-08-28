@@ -29,7 +29,7 @@ const Navbar = () => {
       </div>
       <ul className="flex gap-6 justify-center items-center">
         {navbarItems.map((item) => (
-          <li onClick={() => setActive(item.name)} key={item.id} className={`p-1 cursor-pointer ${active == item.name && "text-black font-semibold border-b-4 border-primary"}`}>
+          <li key={item.id} className={`p-1 cursor-pointer ${active == item.name && "text-black font-semibold border-b-4 border-primary"}`}>
             <Link to={item.path}>{item.name}</Link>
           </li>
         ))}
